@@ -14,3 +14,6 @@ then use ngrok for change a local server into a global, you can download  it in 
 
 if done, open terminal or cmd and type this command
 ``ngrok http -region ap 3000`` -region ap use for asia pacific, you can change that to your country.. and 3000 is my port.
+
+after that, copy https url and paste it to browser, and dont forget to open in another machine.. 
+and.. anjoy it :D
